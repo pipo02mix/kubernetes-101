@@ -7,3 +7,5 @@ A kubernetes demo
 3. Create a simple deployment
 4. Create a service pointing to the nginx deployed pods 
 5. A guestbook app with a frontend made in angular and a redis cluster as backend storage
+6. Autoscaling probe with apapche php container
+
